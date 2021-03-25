@@ -1,7 +1,7 @@
 <img alt="Ignite" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fad01ee79-762a-4775-bbb6-354f2f42879a%2Fcover-node.js.png?table=block&id=59ccb235-aecd-43a6-a06b-f09a24e7ede8&width=3840&userId=2851198d-6d7e-47d6-b66a-5928d7b96353&cache=v2" />
 
 <h3 align="center">
-  Desafio 02: Trabalhando com middlewares
+  Desafio 1-2: Trabalhando com middlewares
 </h3>
 
 <p align="center">
